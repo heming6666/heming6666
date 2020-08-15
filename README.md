@@ -4,6 +4,9 @@ I'm a open source enthusiast, good at front-end development.
 
 - 🌱 I’m a second-year master student at Tongji University, majoring in Computer Science and Technology. 
 - 🏗 Focus on data analytics & visualization
-- ⚡ Main projects
+- ⚡ Main projects: 
+  - [hypertrons/hypertrons](https://github.com/hypertrons/hypertrons/pulls?q=is%3Apr+author%3Aheming6666)
+  - [hypertrons/hypertrons-crx](https://github.com/hypertrons/hypertrons-crx/pulls?q=is%3Apr+author%3Aheming6666)
+  - [chaoss/grimoirelab](https://github.com/heming6666/grimoirelab-project-tracker)
 - 💬 WeChat: `linhaiming6666`
 - 📫 Ping me by [Email](mailto:lhming23@outlook.com)
